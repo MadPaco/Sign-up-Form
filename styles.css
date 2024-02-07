@@ -61,6 +61,8 @@ html, body{
 input{
     margin-bottom: 15px;
     margin-right: 20px;
+    border-radius: 3px;
+    border: 1px solid rgb(231, 231, 231);
 }
 
 form{
@@ -68,10 +70,11 @@ form{
     padding-top: 20px;
     background-color: white;
     margin-top: 40px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
 }
 
 .formContainer{
-    background-color: lightgrey;
+    background-color: rgb(237, 237, 237);
 }
 
 .intro{
@@ -99,8 +102,9 @@ button{
 }
 
 label{
-    font-size: 10px;
-    color: grey
+    font-size: 12px;
+    color: rgb(49, 49, 49);
+    font-weight: bold;
 }
 
 .accountExistent{
