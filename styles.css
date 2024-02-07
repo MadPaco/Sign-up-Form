@@ -98,7 +98,15 @@ legend{
 button{
     margin-top: 30px;
     margin-left: 40px;
+    margin-bottom: 20px;
     background-color: #596D48;
+    width: 200px;
+    height: 50px;
+    color: white;
+    border-radius: 12px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
 }
 
 label{
